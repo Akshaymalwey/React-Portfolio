@@ -41,7 +41,8 @@ const Projects = () => {
               A React-powered Pokémon App built with Axios to fetch and display
               Pokémon stats in a clean, card-style UI.
             </p>
-            <a href="https://github.com/Akshaymalwey/Pokemon-App">
+            <a href="https://github.com/Akshaymalwey/Pokemon-App" target="_blank"
+            rel="noopener noreferrer">
               Source Code
             </a>
           </div>
@@ -54,7 +55,8 @@ const Projects = () => {
               A growing collection of 25 mini React projects, each crafted to
               explore and understand a new concept — one component at a time.
             </p>
-            <a href="https://github.com/Akshaymalwey?tab=repositories">
+            <a href="https://github.com/Akshaymalwey?tab=repositories" target="_blank"
+            rel="noopener noreferrer">
               Source Code
             </a>
           </div>
@@ -67,7 +69,8 @@ const Projects = () => {
               A classic Whack-a-Mole game built with HTML, CSS, and JavaScript —
               a fun way to revise the fundamentals through clicks and chaos.
             </p>
-            <a href="https://github.com/Akshaymalwey/Whack-a-mole">
+            <a href="https://github.com/Akshaymalwey/Whack-a-mole" target="_blank"
+            rel="noopener noreferrer">
               Source Code
             </a>
           </div>
@@ -81,7 +84,8 @@ const Projects = () => {
               heart and hustle of IIT Jammu’s magazine — built with simplicity
               and soul.
             </p>
-            <a href="https://github.com/Akshaymalwey/Sangam-2">Source Code</a>
+            <a href="https://github.com/Akshaymalwey/Sangam-2" target="_blank"
+            rel="noopener noreferrer">Source Code</a>
           </div>
         </div>
       </div>
