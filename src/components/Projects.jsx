@@ -89,18 +89,7 @@ const Projects = () => {
             </a>
           </div>
         </div>
-
-        <div className="card1">
-          <h2>Sangam</h2>
-          <div className="project-desciption">
-            <p>
-              An official digital home for Sangam, designed to showcase the
-              heart and hustle of IIT Jammu’s magazine — built with simplicity
-              and soul.
-            </p>
-            <a href="https://github.com/Akshaymalwey/Sangam-2" target="_blank"
-            rel="noopener noreferrer">Source Code</a>
-          </div>
+        
         </div>
       </div>
     </div>
