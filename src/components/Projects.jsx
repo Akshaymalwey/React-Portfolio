@@ -34,6 +34,20 @@ const Projects = () => {
       </div>
 
       <div className="project-cards">
+        
+        <div className="card1">
+          <h2>Chat Application</h2>
+          <div className="project-desciption">
+            <p>
+              Built a real-time chat app using React, Node.js, Express, and MongoDB, with Socket.io for instant messaging. Implemented user authentication (cron-based), dark/light mode using daisyUI, and a clean, responsive UI.
+            </p>
+            <a href="https://github.com/Akshaymalwey/full-stack-chat-application" target="_blank"
+            rel="noopener noreferrer">
+              Source Code
+            </a>
+          </div>
+        </div>
+        
         <div className="card1">
           <h2>Pokemon App</h2>
           <div className="project-desciption">
